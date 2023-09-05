@@ -1,0 +1,12 @@
+{
+  "name": "etnetera-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dominika-matejkova/etnetera-test.git",
+  "author": "Dominika Matějková <dominika.matejkova@outlook.cz>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  },
+  "scripts": {}
+}
